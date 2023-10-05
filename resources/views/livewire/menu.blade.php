@@ -13,7 +13,7 @@
     </ul>
     <ul class="side-menu" style="padding-left: 0rem;">
         <li>
-            <a wire:navigate href="#" class="logout">
+            <a  wire:click='sair' href="" class="logout">
                 <i class='bx bx-log-out-circle'></i>
                 Sair
             </a>
